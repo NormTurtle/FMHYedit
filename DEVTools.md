@@ -698,6 +698,7 @@
 * [Tesseract](https://tesseract-ocr.github.io/) - Open Source OCR Engine / [GitHub](https://github.com/tesseract-ocr/tesseract)
 * [CLIP-as-service](https://clip-as-service.jina.ai) / [GitHub](https://github.com/jina-ai/clip-as-service) - Embed Images / Sentences via CLIP Models
 * [devSwag](https://devswag.io/) - Developer Giveaways
+* [free-for-dev](https://github.com/jixserver/free-for-dev) - Developer Toolkit
 
 ***
 
