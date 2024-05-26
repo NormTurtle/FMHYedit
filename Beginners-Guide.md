@@ -8,10 +8,7 @@
 
 ### FAQ
 
-> How can I tell if a site or download link is safe? Any tips? 
-Check out the [Booty Guard](https://rentry.org/bootyguard), our basic safety guide and. avoid using the sites / software we've listed as unsafe [here](https://fmhy.net/unsafesites). If you still feel unsure feel free to reach out to us via [Discord](https://discord.gg/5W9QJKuPkD).
-
-> How can I improve my privacy online? 
+> How can I improve my privacy online?
 We'd recommend checking out privacy guides like [SSD](https://ssd.eff.org/) and [The New Oil](https://thenewoil.org/).
 
 > I don't know what seeding or *insert another term* means...
@@ -30,7 +27,7 @@ You can use [WhereYouWatch](https://whereyouwatch.com) for finding movies, and f
 Use the tools listed [here](https://fmhy.net/gamingpiracyguide#steam-epic) to unlock DLCs.
 
 > Should I install and use *insert random antivirus software* instead of using Windows Defender?
-No, don't do that. Windows Defender is more than enough to keep you safe, but if you're still set on installing a secondary AV, the only one worth installing is Malwarebytes. Please read the note [here](#anti-virus). 
+No, don't do that. Windows Defender is more than enough to keep you safe, but if you're still set on installing a secondary AV, the only one worth installing is Malwarebytes. Please read the note [here](#anti-virus).
 !!!warning Stay away from Avast, Norton, and McAfee, as these are "bloatware" and generally unsafe software.
 
  > How can I bypass a paywalled article?
@@ -41,17 +38,17 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ***
 
-### Windows Piracy 
+### Windows Piracy
 
 **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25BA_windows_isos)** - Download Windows
-**[Windows Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation)** - Activate Windows 
+**[Windows Activation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_windows_activation)** - Activate Windows
 
 ***
 
 ### Linux Piracy
 
-**[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_distros)** - Download Linux Distros 
-**[Linux Gaming Guide](https://github.com/rimsiw/linux-gaming-omg)** - Piracy Guide for Linux 
+**[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_distros)** - Download Linux Distros
+**[Linux Gaming Guide](https://github.com/rimsiw/linux-gaming-omg)** - Piracy Guide for Linux
 **[Torrminatorr](https://forum.torrminatorr.com/)** / **[Kapital Sin](https://kapitalsin.com/)** - Download Linux Games
 **[ani-cli](https://github.com/pystardust/ani-cli)** - Anime Streaming Terminal
 
@@ -101,7 +98,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ### Privacy
 
-**[Privacy Guides](https://www.privacyguides.org/)** - Privacy guides 
+**[Privacy Guides](https://www.privacyguides.org/)** - Privacy guides
 **[DuckDuckGo](https://duckduckgo.com/) / [Mojeek](https://www.mojeek.com/)** - Tracker-free web search
 **[ProtonMail](https://proton.me/mail)** - Encrypted email service
 **[Email Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_privacy)** - Email privacy resources
@@ -116,11 +113,11 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 
 ### Streaming
 
-**[Binged](https://binged.live/) / [NunFlix](https://nunflix.com/) / [Braflix](https://www.braflix.video/) / [watch.lonelil](https://watch.lonelil.ru/) / [FMovies](https://fmoviesz.to/) / [movie-web](https://erynith.github.io/movie-web-instances/) + [Stream Fix](https://docs.sudo-flix.lol/extension)** - Fast movie / TV streaming
+**[movie-web](https://erynith.github.io/movie-web-instances/) + [Add Sources](https://docs.sudo-flix.lol/extension) / [Binged](https://binged.live/) / [Braflix](https://www.braflix.video/) / [watch.lonelil](https://watch.lonelil.ru/) / [FMovies](https://fmoviesz.to/)** - Fast movie / TV streaming
 **[HiAnime](https://hianime.to/)** - Fast anime streaming
 **[Dramacool](https://dramacool.cy/)** - Fast Asian drama streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming
-**[Spotify](https://spotify.com/) / [YouTube Music](https://music.youtube.com/)** - Music & podcast streaming / [Spotify Adblock](https://github.com/amd64fox/SpotX)
+**[Spotify](https://spotify.com/) / [YouTube Music](https://music.youtube.com/)** - Music & podcast streaming / [Spotify Adblock](https://github.com/SpotX-Official/SpotX)
 **[Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0)**, [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
 **[TV CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)** - Multi-site TV search
 **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei) / [2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)** - Multi-site anime search
@@ -131,12 +128,13 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 ### Downloading
 
 **[LRepacks](https://lrepacks.net/) / [CRACKSurl](https://cracksurl.com/) / [M0nkrus](https://w14.monkrus.ws/)** - Trusted software sites
-**[OlaMovies](https://olamovies.life/)** - Fast video downloads
+**[Pahe](https://pahe.ink/)** - Fast video downloads
 **[FitGirl Repacks](https://fitgirl-repacks.site/)** / [Discord](https://discord.gg/Up3YARe4RW) / **[SteamRIP](https://steamrip.com/)** - Game download sites
 **[Vimms Lair](https://vimm.net/) / [No-Intro](https://rentry.co/FMHYBase64#no-intro)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)
 **[Firehawk52](https://rentry.org/firehawk52)** - Music ripping guide
 **[DoubleDouble](https://doubledouble.top/)** - Multi-Site audio download
 **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - Audio download app
+**[squid.wtf](https://squid.wtf/)** - Deezer FLAC download
 **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z) / [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h)** - Multi-site download search
 **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr#gsc.tab=0) / [2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [3](https://cse.google.com/cse?cx=aab218d0aa53e3578#gsc.tab=0)** - Multi-site video download search
 **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)** - Multi-site anime download search
@@ -188,7 +186,7 @@ Use this [browser extension](https://github.com/bpc-clone/bpc_updates/releases) 
 **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8) / [2](https://cse.google.com/cse?cx=73948689c2c206528) / [3](https://cse.google.com/cse?cx=a805854b6a196d6a6)** - Multi-site APK search
 **[Stremio](https://www.stremio.com/)** - Video streaming app / Use VPN / [Guide](https://rentry.co/privatestremio)
 **[Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic)** - How To Patch 3rd Party Reddit Clients
-**[ReVanced Manager](https://github.com/revanced/revanced-manager)** - Ad-Free YouTube, Reddit, X etc. Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT) / [Guide](https://redd.it/xlcny9) 
+**[ReVanced Manager](https://github.com/revanced/revanced-manager)** - Ad-Free YouTube, Reddit, X etc. Patcher / [Discord](https://discord.com/invite/rF2YcEjcrT) / [Guide](https://redd.it/xlcny9)
 **[Complete Jailbreak Chart](https://ios.cfw.guide/)** - Jailbreaking info & tools
 
 ***

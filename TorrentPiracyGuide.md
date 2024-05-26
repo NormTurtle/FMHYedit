@@ -4,76 +4,6 @@
 ***
 ***
 
-# ► Torrent Clients
-
-**Warning** - Make sure you [BIND](https://redd.it/ssy8vv) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
-
-***
-
-* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** or [QBT Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools)
-* ⭐ **[Deluge](https://www.deluge-torrent.org/)** - [Plugins](https://dev.deluge-torrent.org/wiki/Plugins) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
-* ⭐ **[Transmission](https://transmissionbt.com/)**
-* ⭐ **[Tixati](https://tixati.com/)**
-* ⭐ **[torrent-control](https://github.com/Mika-/torrent-control)** or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client 
-* [Motrix](https://motrix.app/) - [GitHub](https://github.com/agalwood/Motrix)
-* [WizTorrent](https://wiztorrent.com/) - Torrent Player / WebShare
-* [Picotorrent](https://picotorrent.org/)
-* [BiglyBT](https://www.biglybt.com/)
-* [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html)
-* [PikaTorrent](https://www.pikatorrent.com/) - [GitHub](https://github.com/G-Ray/pikatorrent)
-* [Distribyted](https://distribyted.com/) - [GitHub](https://github.com/distribyted/distribyted)
-* [Crawfish](https://github.com/drakonkat/Crawfish)
-* [Tribler](https://www.tribler.org/) - Tor-inspired Client / [GitHub](https://github.com/Tribler/tribler)
-* [XD-Torrent](https://xd-torrent.github.io/) - Anonymous P2P Torrent Client
-* [BitSwarm](https://github.com/SuRGeoNix/BitSwarm/) - Bittorrent Client Library
-* [Instant.io](https://instant.io/) - Stream Torrents in Browser
-* [BTorrent](https://btorrent.xyz/) - Stream Torrents in Browser
-* [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
-* [BitFord](https://github.com/astro/bitford) - Chrome
-* [Rats Search](https://github.com/DEgITx/rats-search) - Torrent Search Client
-* [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
-* [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)
-
-***
-
-## ▷ qBittorrent Tools
-
-* 🌐 **[QBT Plugins](https://github.com/qbittorrent/search-plugins?tab=readme-ov-file#search-plugins)** - Plugins Index
-* 🌐 **[QBT Themes](https://github.com/jagannatharjun/qbt-theme)**  - Themes Index
-* [qBitMF](https://github.com/qBitMF/qBitMF) - Multi-Connection Tool 
-* [VueTorrent](https://github.com/WDaan/VueTorrent) - Web Clients
-* [QBT Manager](https://github.com/Yash-Garg/qBittorrent-Manager) or [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
-* [Docker QBT](https://github.com/linuxserver/docker-qbittorrent) or [QBT VPN](https://github.com/binhex/arch-qbittorrentvpn) - Docker Builds
-* [QBT Mega](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent_MEGA.ipynb) - Mega Upload Script
-* [QBT  Gdrive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) - Gdrive Upload Script
-* [Dark Theme](https://draculatheme.com/qbittorrent) or [iOS Style](https://github.com/ntoporcov/iQbit/) - QBT Themes
-* [qBitEndpoints](https://rentry.co/qBitEndpoints) - API Endpoints
-
-***
-
-## ▷ Remote Torrenting
-
-* ↪️ **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)**
-* ⭐ **[Multi-Up](https://multiup.io/en/upload/from-torrent)** - Torrent to DDL Sites / [Bypass 10GB Limit](https://pastebin.com/0aPaPqN9)
-* ⭐ **[webtor](https://webtor.io/)** - Torrent to Cloud and Stream / [Send Magnets](https://greasyfork.org/en/scripts/481975) 
-* ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI) - Torrent to Cloud and Stream
-* [Bitport](https://bitport.io/welcome) - Torrent to Cloud and Stream
-* [TorrentSafe](https://www.torrentsafe.com/) - Torrent to Cloud and Stream
-* [ZBIGZ](https://zbigz.com/) - Torrent to Cloud and Stream
-* [Loadbt](https://www.loadbt.com/) - Torrent to Cloud and Stream
-* [TorBox](https://torbox.app/) - Torrent to Cloud
-* [Demagnetize](http://demagnetize.link/) - Torrent to DDL
-
-***
-
-## ▷ [Android Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_torrenting)
-
-***
-
-## ▷ [iOS Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_torrenting)
-
-***
-
 # ► Torrent Sites
 
 **Warning** - It's best to avoid sites that allow anyone to upload without consequences when getting both software and games. Avoid users in the [Unsafe](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/unsafe-sites/) or [Untrusted](https://rentry.org/pgames#untrusted-uploaders) lists.
@@ -86,7 +16,7 @@
 * ⭐ **[m0nkrus](https://w14.monkrus.ws/)** - Adobe Software Archive / [Search Engine](https://dvuzu.github.io/monkrus-search) / [How-to](https://rentry.co/adobesoftware) / [Block Adobe](https://github.com/ignaciocastro/adobe-is-dumb)
 * ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) - Multi Site Search
 * [1337x](https://1337x.to/) - Video / Audio / NSFW / [Avoid Software](https://pastebin.com/8AaMuz5u)
-* 1337x Tools - [Mirrors](https://1337x.to/about) / [User Ranks](https://i.ibb.co/WfNhvtB/ebc2def26433.png) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) / [Enhancements](https://greasyfork.org/en/scripts/33379) / [Magnets](https://greasyfork.org/en/scripts/373230) / [Subtitles](https://greasyfork.org/en/scripts/29467) / [Timezone Fix](https://greasyfork.org/en/scripts/421635)
+* 1337x Tools - [Mirrors](https://1337x-status.org/), [2](https://1337x.to/about) / [User Ranks](https://i.ibb.co/WfNhvtB/ebc2def26433.png) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) / [Enhancements](https://greasyfork.org/en/scripts/33379) / [Magnets](https://greasyfork.org/en/scripts/373230) / [Subtitles](https://greasyfork.org/en/scripts/29467) / [Timezone Fix](https://greasyfork.org/en/scripts/421635)
 * [GloTorrents](https://glodls.to) - Video / Audio / Books / NSFW
 * [MagnetDL](https://www.magnetdl.com/), [2]( https://www.magnetdl.org/) - Video / Audio / Books / [Onion](http://r5cena7erxpnxomyvoybuxh6fkgs55qqdg7bobf6yjx4j6vmywrqvlid.onion/)
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Books
@@ -99,7 +29,7 @@
 * [Torrenting](https://www.torrenting.com/) - Video / Audio / Books / NSFW / Signup Required
 * [Tigole](https://infogalactic.com/info/Tigole#Getting_Tigole_torrents) - Torrent Index
 * [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) - [ZeroNet Required](https://zeronet.io/) / Video / Audio
-* [4chan /t/](https://boards.4chan.org/t/) - Torrents / Imageboard / Some NSFW 
+* [4chan /t/](https://boards.4chan.org/t/) - Torrents / Imageboard / Some NSFW
 
 ***
 
@@ -110,7 +40,7 @@
 ***
 
 * ⭐ **[BTDigg](https://btdig.com/index.htm)** - [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/), [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) / [i2p](http://btdigg.i2p/)
-* ⭐ **[snowfl](https://snowfl.com/)** 
+* ⭐ **[snowfl](https://snowfl.com/)**
 * ⭐ **[Knaben](https://knaben.eu/)**
 * ⭐ **[SolidTorrents](https://solidtorrents.to/)**, [2](https://solidtorrents.eu/)
 * ⭐ **[Torrentz2](https://torrentz2.nz/)**
@@ -138,7 +68,7 @@
 * [TorrentSearchRobot](https://t.me/TorrentSearchRoBot) - Telegram Torrent Search
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Magnet Web App Search
 * [Torrentinim](https://github.com/sergiotapia/torrentinim) or [BitMagnet](https://bitmagnet.io/) - Self-Hosted Torrent Search Engines
-* [torrentsearcher_bot](https://t.me/torrentsearcher_bot), [torrenthuntbot](https://t.me/torrenthuntbot) or [FDTorrentSearchBot](https://t.me/FDTorrentSearchBot) - Telegram Torrent Search Bot 
+* [torrentsearcher_bot](https://t.me/torrentsearcher_bot), [torrenthuntbot](https://t.me/torrenthuntbot) or [FDTorrentSearchBot](https://t.me/FDTorrentSearchBot) - Telegram Torrent Search Bot
 
 ***
 
@@ -162,11 +92,81 @@
 
 ***
 
+# ► Torrent Clients
+
+**Warning** - Make sure you [BIND](https://redd.it/ssy8vv) your [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) to your client to avoid ISP letters.
+
+***
+
+* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** or [QBT Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools)
+* ⭐ **[Deluge](https://www.deluge-torrent.org/)** - [Plugins](https://dev.deluge-torrent.org/wiki/Plugins) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
+* ⭐ **[Transmission](https://transmissionbt.com/)**
+* ⭐ **[Tixati](https://tixati.com/)**
+* ⭐ **[torrent-control](https://github.com/Mika-/torrent-control)** or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client
+* [Motrix](https://motrix.app/) - [GitHub](https://github.com/agalwood/Motrix)
+* [WizTorrent](https://wiztorrent.com/) - Torrent Player / WebShare
+* [Picotorrent](https://picotorrent.org/)
+* [BiglyBT](https://www.biglybt.com/)
+* [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html)
+* [PikaTorrent](https://www.pikatorrent.com/) - [GitHub](https://github.com/G-Ray/pikatorrent)
+* [Distribyted](https://distribyted.com/) - [GitHub](https://github.com/distribyted/distribyted)
+* [Crawfish](https://github.com/drakonkat/Crawfish)
+* [Tribler](https://www.tribler.org/) - Tor-inspired Client / [GitHub](https://github.com/Tribler/tribler)
+* [XD-Torrent](https://xd-torrent.github.io/) - Anonymous P2P Torrent Client
+* [BitSwarm](https://github.com/SuRGeoNix/BitSwarm/) - Bittorrent Client Library
+* [Instant.io](https://instant.io/) - Stream Torrents in Browser
+* [BTorrent](https://btorrent.xyz/) - Stream Torrents in Browser
+* [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
+* [BitFord](https://github.com/astro/bitford) - Chrome
+* [Rats Search](https://github.com/DEgITx/rats-search) - Torrent Search Client
+* [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
+* [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)
+* [/r/Seedboxes](https://www.reddit.com/r/seedboxes/) - Seedbox Subreddit
+
+***
+
+## ▷ qBittorrent Tools
+
+* 🌐 **[QBT Plugins](https://github.com/qbittorrent/search-plugins?tab=readme-ov-file#search-plugins)** - Plugins Index
+* 🌐 **[QBT Themes](https://github.com/jagannatharjun/qbt-theme)** - Themes Index
+* [qBitMF](https://github.com/qBitMF/qBitMF) - Multi-Connection Tool
+* [VueTorrent](https://github.com/WDaan/VueTorrent) - Web Clients
+* [QBT Manager](https://github.com/Yash-Garg/qBittorrent-Manager) or [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
+* [Docker QBT](https://github.com/linuxserver/docker-qbittorrent) or [QBT VPN](https://github.com/binhex/arch-qbittorrentvpn) - Docker Builds
+* [QBT Mega](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent_MEGA.ipynb) - Mega Upload Script
+* [QBT Gdrive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) - Gdrive Upload Script
+* [Dark Theme](https://draculatheme.com/qbittorrent) or [iOS Style](https://github.com/ntoporcov/iQbit/) - QBT Themes
+* [qBitEndpoints](https://rentry.co/qBitEndpoints) - API Endpoints
+
+***
+
+## ▷ Remote Torrenting
+
+* ↪️ **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)**
+* ⭐ **[Multi-Up](https://multiup.io/en/upload/from-torrent)** - Torrent to DDL Sites / [Bypass 10GB Limit](https://pastebin.com/0aPaPqN9)
+* ⭐ **[webtor](https://webtor.io/)** - Torrent to Cloud and Stream / [Send Magnets](https://greasyfork.org/en/scripts/481975)
+* ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI) - Torrent to Cloud and Stream
+* [Bitport](https://bitport.io/welcome) - Torrent to Cloud and Stream
+* [TorrentSafe](https://www.torrentsafe.com/) - Torrent to Cloud and Stream
+* [ZBIGZ](https://zbigz.com/) - Torrent to Cloud and Stream
+* [TorBox](https://torbox.app/) - Torrent to Cloud
+* [Demagnetize](http://demagnetize.link/) - Torrent to DDL
+
+***
+
+## ▷ [Android Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_torrenting)
+
+***
+
+## ▷ [iOS Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_torrenting)
+
+***
+
 # ► Tracker Invites
 
 * 🌐 **[Private Trackers General](https://rentry.co/private-trackers)** or [Private Trackers Guide](https://wiki.installgentoo.com/wiki/Private_trackers) - Private Tracker Guides
 * 🌐 **[Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated)** - Warez / Scene Site Index
-* ⭐ **[Graph](https://inviteroute.github.io/graph/)** - Private Tracker Connections Guide
+* ⭐ **[The Sheet](https://inviteroute.github.io/sheet/)** or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
 * ⭐ **[TrackerStatus](https://trackerstatus.info/)** - Tracker Status Updates
 * [TrackerChecker](https://github.com/NDDDDDDDDD/TrackerChecker) - Check if Private Trackers Open Signups
 * [/r/trackers](https://reddit.com/r/trackers) - Tracker Discussion
@@ -177,7 +177,6 @@
 * [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) - Open Tracker Invites
 * [OpenSignups](https://t.me/trackersignup) - Open Signups Private Trackers / Telegram
 * [Upload-Assistant](https://github.com/L4GSP1KE/Upload-Assistant) - Private Tracker Auto-Upload
-* [Bemaniso](https://bemaniso.ws/) - Torrent Tracker
 * [TrackerScreenshot](https://github.com/KlevGG/TrackerScreenshot) - Auto Screenshot Tracker Stats
 
 ***
@@ -201,8 +200,8 @@
 * [RSSFeedz](https://t.me/rssfeedz) - Torrent RSS Feed
 * [OpenWebTorrent](https://openwebtorrent.com/) - Free Webtorrent Tracker
 * [AutoDL-Irssi](https://autodl-community.github.io/autodl-irssi/) - IRC Channel Monitor / Autodownload / [Slack Notifications](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b)
-* [PrivTracker](https://privtracker.com/) - Private BitTorrent Tracker Generator / [GitHub](https://github.com/meehow/privtracker) 
-* [AnonSeed](https://www.anonseed.com/) - Anonymous Torrent Sharing 
+* [PrivTracker](https://privtracker.com/) - Private BitTorrent Tracker Generator / [GitHub](https://github.com/meehow/privtracker)
+* [AnonSeed](https://www.anonseed.com/) - Anonymous Torrent Sharing
 * [Torrent-Creator](https://github.com/Kimbatt/torrent-creator) - Browser Torrent Creator
 * [Torrent Parts](https://torrent.parts/) or [Torrent File Editor](https://torrent-file-editor.github.io/) - Edit Torrents Files
 * [/r/torrents](https://reddit.com/r/torrents) or [r/VPNTorrents](https://reddit.com/r/vpntorrents) - Torrenting Discussion

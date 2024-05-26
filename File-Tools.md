@@ -12,9 +12,9 @@
 * [horsicq](https://horsicq.github.io/) - File Tools / [GitHub](https://github.com/horsicq/)
 * [Beyond Compare](https://www.scootersoftware.com/) - File / Directory Comparison Tool / [Pro](https://rentry.co/FMHYBase64#beyond-compare-crack)
 * [UnLock IT](https://emcosoftware.com/unlock-it/download), [Lock Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - File Unlocker / Deleter
-* [File Juggler](https://www.filejuggler.com/) - Organize Files Automatically
 * [Magika](https://github.com/google/magika) - AI File Content Type Detector
 * [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date
+* [Icaros](https://github.com/Xanashi/Icaros) - Add Explorer Thumbnails to any Video Format
 * [TMSU](https://github.com/oniony/TMSU) or [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based Filesystem
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - HTTP File System
 * [mergerfs](https://github.com/trapexit/mergerfs) - Union Filesystem
@@ -41,10 +41,11 @@
 ## ▷ Download Managers
 
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / [Debloat](https://rentry.org/jdownloader2) / [Captcha Solver](https://github.com/cracker0dks/CaptchaSolver) / [Dark Theme](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
-* ⭐ **[XDM](https://xtremedownloadmanager.com/)** - Download Manager / [GitHub](https://github.com/subhra74/xdm) 
+* ⭐ **[XDM](https://xtremedownloadmanager.com/)** - Download Manager / [GitHub](https://github.com/subhra74/xdm)
 * ⭐ **[Motrix](https://www.motrix.app/)** - Download Manager / [GitHub](https://github.com/agalwood/Motrix)
 * ⭐ **[Gopeed](https://gopeed.com/)** - Download Manager / [GitHub](https://github.com/GopeedLab/gopeed) / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories)
 * [aria2](https://aria2.github.io/) - Terminal Download Manager / [Screenshot](https://i.ibb.co/SmsxmW3/3e213c54b148.png) / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](https://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2) / [GUI](https://persepolisdm.github.io/)
+* [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant) / [Note](https://pastebin.com/Vgwf3avH)
 * [IDM](https://rentry.co/FMHYBase64#idm) - Download Manager
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager
 * [File Centipede](https://filecxx.com/) - Upload / Download Manager
@@ -59,13 +60,13 @@
 ## ▷ File Archivers
 
 * 🌐 **[SuperCompression](https://supercompression.org/)** - File Compression Resources
-* ⭐ **[7-Zip](https://www.7-zip.org/)** / [Colab](https://github.com/dropcreations/7zip-in-Google-Colab) / [Benchmarks](https://s1.hoffart.de/7zip-bench/) / [Additional Codecs](https://github.com/mcmilk/7-Zip-zstd) - File Archiver
+* ⭐ **[7-Zip](https://www.7-zip.org/)** - File Archiver
 * ⭐ **[NanaZip](https://github.com/M2Team/NanaZip)** - File Archiver
 * ⭐ **[PeaZip](https://peazip.github.io/)** - Cross Platform File Archiver
 * ⭐ **[CompactGUI](https://github.com/IridiumIO/CompactGUI)** or [Compactor](https://github.com/Freaky/Compactor) - Transparent Compression
 * [Fileforums](https://fileforums.com/) or [Encode](https://encode.su/) - Data Compression Forums
 * [TurboBench](https://github.com/powturbo/TurboBench) - Compression Benchmark
-* [unzip-http](https://github.com/saulpw/unzip-http) - Unzip via HTTP Without Downloading
+* [unzip-http](https://github.com/saulpw/unzip-http) - Unzip via HTTP without Downloading
 * [WinRAR](https://www.win-rar.com/) - File Archiver / [Licenses](https://rentry.co/FMHYBase64#winrar-licenses)
 * [Bandizip](https://www.bandisoft.com/bandizip/) - File Archiver
 * [IZArc](https://www.izarc.org/) - File Archiver
@@ -89,7 +90,7 @@
 * [text2img](https://master.ayra.ch/text2img/) - NFO Files to Image Converter
 * [FreeConvert](https://www.freeconvert.com/) - File Converter / 1 GB Limit
 * [videoutils](https://www.videoutils.com/) - File Converter / 500 MB
-* [Xconvert](https://www.xconvert.com) - File Converter / 400 MB 
+* [Xconvert](https://www.xconvert.com) - File Converter / 400 MB
 * [ConvertFiles](https://www.convertfiles.com/) - File Converter / 250 MB Limit
 * [Convertio](https://convertio.co/) - File Converter / 100 MB Limit
 * [AnyConvert](https://anyconv.com/) - File Converter / 100 MB Limit
@@ -170,6 +171,7 @@
 * ⭐ **[freefilesync](https://freefilesync.org/)** - File Backup
 * ⭐ **[Kopia](https://kopia.io/)** - File Backup
 * [MyPhoneExplorer](https://www.fjsoft.at/) - Phone / Desktop Sync
+* [SyncFolder](https://apps.microsoft.com/detail/9nc73mjwhsww?rtc=1&hl=en-us&gl=US) - Phone / Desktop Sync
 * [etesync](https://www.etesync.com/) - File Sync
 * [allwaysync](https://allwaysync.com/) - File Sync
 * [Resilio](https://www.resilio.com/individuals/) - File Sync
@@ -229,12 +231,12 @@
 * [Bruji](https://www.bruji.com/) - Data Automation
 * [FileBot](https://www.filebot.net/) - Data Automation
 * [MediaElch](https://www.kvibes.de/mediaelch/) - Data Automation
-* [TVNamer](https://github.com/dbr/tvnamer) or [TVRename](https://www.tvrename.com/) - TV File Data Automation
+* [TVRename](https://www.tvrename.com/) - TV File Data Automation
 * [Shoko](https://github.com/shokoanime) - Anime File Data Automation
 * [Szyszka](https://github.com/qarmin/szyszka) - Bulk Renamer
-* [Massren](https://github.com/laurent22/massren) - Bulk Renamer
 * [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename) - Bulk Renamer
 * [Ant Renamer](https://www.antp.be/software/renamer) - Bulk Renamer
+* [renamer](https://github.com/sun-jiao/renamer) - Bulk Renamer
 
 ***
 
@@ -245,7 +247,7 @@
 * [PDFGrep](https://pdfgrep.org/) - PDF Text Search
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on GDrive
 * [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
-* [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Converters 
+* [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Converters
 * [Adobe Compress PDF](https://www.adobe.com/acrobat/online/compress-pdf.html) - PDF Compressor
 * [PDF Mergy](https://pdfmerge.w69b.com/) or [PDFSnake](https://pdfsnake.app/) - Merge PDF Files
 * [Adobe Word Converter](https://www.adobe.com/acrobat/online/word-to-pdf.html) - Word to PDF Converter
@@ -255,7 +257,7 @@
 * [Adobe Excel to PDF](https://www.adobe.com/acrobat/online/excel-to-pdf.html) - Convert Excel Files to PDF
 * [Images to PDF](https://github.com/Swati4star/Images-to-PDF), [JPG2PDFBot](https://t.me/JPG2PDFBot), [Adobe Converter](https://www.adobe.com/acrobat/online/jpg-to-pdf.html) or [img2pdf](https://pypi.org/project/img2pdf/) - Image to PDF Converter
 * [PDFCrowd](https://pdfcrowd.com/), [HTMLaPDF](https://www.htmlapdf.com/), [TailWindPDF](https://tailwindpdf.com/) or [wkhtmltopdf](https://wkhtmltopdf.org/) - HTML to PDF / Image Converter
-* [PSTOEdit](http://pstoedit.net/) - Convert PDF to other Vector Formats 
+* [PSTOEdit](http://pstoedit.net/) - Convert PDF to other Vector Formats
 * [Issuu](https://issuu.com/) - Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/)
 * [WebToPDF](https://webtopdf.com/) or [Percollate](https://github.com/danburzo/percollate) - Webpage to PDF Converters
 * [GraphPaper](https://incompetech.com/graphpaper/) - PDF Graphs
@@ -273,8 +275,8 @@
 
 # ► File Hosts
 
-* **Note** - Keep in mind its NEVER a good idea to upload personal files to file hosts, even if they claim to be encrypted. Size is per file and time is after the last time someone downloaded that file unless specified. 
-  
+* **Note** - Keep in mind its NEVER a good idea to upload personal files to file hosts, even if they claim to be encrypted. Size is per file and time is after the last time someone downloaded that file unless specified.
+
 ***
 
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)** - Unlimited / Forever / [Discord](https://discord.gg/ttQjgC28WP)
@@ -288,18 +290,19 @@
 * ⭐ **[Mixdrop](https://mixdrop.ag/)** - 2GB / 60 Days / Signup Required
 * ⭐ **[Qiwi](https://qiwi.gg)** - [Warning](https://pastebin.com/jn90QMEt) / Signup Required
 * ⭐ **[Catbox.moe](https://catbox.moe/)** - 200MB / Forever
-* [CipherFiles](https://cipherfiles.com/) - 1GB / Forever / [Discord](https://discord.gg/DmRhftYcvN)
 * [MultiUp](https://multiup.io/), [MirrorAce](https://mirrorace.com/) or [Mirrorcreator](https://www.mirrored.to/) / [Extract / Upload](https://github.com/Reddiepoint/MultiUp-Direct) - Multi Host Uploaders
 * [Z-o-o-m](https://z-o-o-m.eu/) - Multi-Host Upload Desktop App
 * [Archive.org](https://archive.org/create/) - Signup Required
+* [Anondrop](https://anondrop.net/) - Unlimited / Forever / [Discord](https://discord.com/invite/7pX4mW3hnb)
 * [send](https://send.vis.ee/) / [instances](https://gitlab.com/timvisee/send-instances) - 2.5gb / 1 day
-* [FileDitch](https://fileditch.com/) - 15GB / Forever / [Note](https://ibb.co/F0gTxNC)
 * [edisk](https://www.edisk.cz/) - 10GB / 30 days
 * [file.kiwi](https://file.kiwi/) - Unlimited / 3.5 Days / [Free Download Duration](https://ibb.co/85z9D1s)
 * [easyupload](https://easyupload.io/) - 10GB / 50gb total / 30 days
 * [fastupload](https://fastupload.io/en) - 10GB / 30 days
 * [desiupload](https://desiupload.co/) or [uploadraja](https://uploadraja.com/) - 10GB / 15 days
 * [fshare](https://www.fshare.vn/) - 10GB / 5 days
+* [AnonTransfer](https://anontransfer.com/) - 15GB / 30 days
+* [FileDitch](https://fileditch.com/) - 5GB / Forever / [Note](https://ibb.co/F0gTxNC)
 * [megaup](https://megaup.net/) - 5GB / 60 days
 * [ufile](https://ufile.io/) - 5GB / 30 days
 * [Internxt](https://send.internxt.com/) - 5GB / 100 files / 14 days
@@ -310,16 +313,16 @@
 * [drop.download](https://drop.download/) - 5GB / 15 days / Signup Required
 * [clicknupload](https://clicknupload.co/) - 2GB / 12 Days or 5GB / 30 Days on sign-up
 * [doodrive](https://doodrive.com/) - 2GB / 30 days / Signup Required
+* [DropMB](https://dropmb.com/) - 2GB / 1 Year
 * [sfile](https://sfile.mobi/) - 100MB / 5gb total / Forever
-* [krakenfiles](https://krakenfiles.com/) - 1GB / 90 days
 * [Imagenetz](https://www.imagenetz.de/) - 2GB / 90 days
-* [filelu](https://filelu.com/) - ?GB / 10 days
+* [filelu](https://filelu.com/) - 15GB / 10 days
 * [fileconvoy](https://www.fileconvoy.com/) - 3GB / 21 days total
 * [filetransfer](https://filetransfer.io/) - 6GB / 21 days total / 50 download limit
 * [swisstransfer](https://www.swisstransfer.com/en) - 50GB / 30 days total / 250 download limit
 * [bowfile](https://bowfile.com/) - 5GB / 30 days total
 * [grosfichiers](https://www.grosfichiers.com/) - 10GB / 14 days total
-* [filebin](https://filebin.net/) - Unlimited / 6 days total / Anyone w/ a link can delete
+* [filebin](https://filebin.net/) - Unlimited / 6 days total / Anyone with a link can delete
 * [fex](https://fex.net/) - 100GB total / 7 days total
 * [Encl](https://encl.io/) - 10gb / 7 days total
 * [SendGB](https://www.sendgb.com/) - 5GB / 7 days total
@@ -329,20 +332,18 @@
 * [file-post](https://file-post.net/) - 3GB / 7 days total
 * [FireLoad](https://www.fireload.com/) - 2GB / 60 days total / Signup Required
 * [WeTransfer](https://wetransfer.com/) - 2GB / 7 days total
-* [LitterBox](https://litterbox.catbox.moe/) - 1GB / 3 days total
-* [File Garden](https://filegarden.com/) - 100MB / Unlimited / Signup Required
 * [Limited Upload Hosts](https://rentry.org/xc48kg) - More Hosts / 1GB or below
 
 ***
 
 ## ▷ P2P File Transfer
 
-* ⭐ **[wormhole](https://wormhole.app/)**
 * ⭐ **[ToffeeShare](https://toffeeshare.com/)**
 * ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
+* ⭐ **[LocalSend](https://localsend.org/)** - Phone / Desktop Transfer / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png)
+* ⭐ **[wormhole](https://wormhole.app/)**
 * ⭐ **[justbeamit](https://justbeamit.com/)**
 * ⭐ **[Tailscale](https://tailscale.com/)**
-* ⭐ **[LocalSend](https://localsend.org/)** - Phone / Desktop Transfer / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png)
 * [Warpinator](https://github.com/linuxmint/warpinator) - Phone / Desktop Transfer
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Phone / Desktop Transfer / [GitHub](https://github.com/uintdev/qrserv)
 * [pairdrop](https://pairdrop.net/) or [Snapdrop](https://snapdrop.net/)
@@ -382,11 +383,12 @@
 * [filepress](https://new.filepress.store/)
 * [sharrr](https://www.sharrr.com/)
 * [Photon](https://photondev.netlify.app/)
+* [EchoDuck](https://echoduck.com/)
 * [ffsend](https://github.com/timvisee/ffsend)
 * [File.love](https://file.love/)
 * [spacedrop](https://spacedrop.app/)
-* [IPFS](https://ipfs.tech/) - P2P Hypermedia Protocol / [Resources](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) 
-* [IPFS Cluster](https://ipfscluster.io/) - Automated data availability and redundancy on IPFS
+* [IPFS](https://ipfs.tech/) or [kubo](https://github.com/ipfs/kubo) - P2P Hypermedia Protocol
+* IPFS Tools - [Resources](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
 
 ***
 
@@ -407,12 +409,10 @@
 * ⭐ **[mega](https://mega.nz/)** - 20GB Free / ~$4.5 for 1TB / [GitHub](https://github.com/meganz)
 * ⭐ **[disk.yandex](https://disk.yandex.com/)** - 5GB Free / $2.42 for 1TB
 * ⭐ **[filen](https://filen.io/)** - 10GB Free / ~$8 for 1TB
-* ⭐ **[internxt](https://internxt.com/)** - 10GB Free / ~4.85 for 1TB
 * ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How To Safely Archive Files on Cloud Storage Sites
-* [terabox](https://terabox.com/) - 1TB Free / $3.50 for 2TB / [Downloader](https://indexsubtitle.cc/terabox-direct-link-generator) 
+* [terabox](https://terabox.com/) - 1TB Free / $3.50 for 2TB / [Downloader](https://indexsubtitle.cc/terabox-direct-link-generator)
 * [CyberFile](https://cyberfile.me/) - 1TB Free
-* [HelURL](https://helurl.com/) - 1TB Free
 * [dropbox](https://www.dropbox.com/) - 5GB Free / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
 * [mediafire](https://www.mediafire.com/) - 10GB Free / $5.83 for 1TB
 * [icedrive](https://icedrive.net/) - 10GB Free / $5 for 1TB
@@ -421,6 +421,7 @@
 * [MrOwl](https://www.mrowl.com/) - 10GB Free / ~$16.67 for 1TB
 * [storj](https://www.storj.io/) - 25GB Free / ~$4 for 1TB
 * [Blomp](https://www.blomp.com/) - 20GB Free / ~$3 for 2TB
+* [internxt](https://internxt.com/) - 10GB Free / ~4.85 for 1TB
 * [xpipe](https://xpipe.io) - Remote File Manager
 * [bookmarkfs](https://github.com/CoolElectronics/bookmarkfs) - Chrome's Profile Sync Cloud Storage
 * [InfiniDrive](https://github.com/nicomda/InfiniDrive) - Amazon Prime Photos Cloud Storage
@@ -440,7 +441,7 @@
 ## ▷ GDrive Tools
 
 * ↪️ **[GDrive File Sharing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gdrive_file_sharing)**
-* ⭐ **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** or [MiXLab](https://github.com/shirooo39/MiXLab) - Google Drive Tools Colab / [GitHub](https://github.com/biplobsd/OneClickRun) / [Features](https://i.ibb.co/BfF3djW/f0ab560a3aef.png) / Use Throwaways
+* ⭐ **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** - Google Drive Tools Colab / [GitHub](https://github.com/biplobsd/OneClickRun) / [Features](https://i.ibb.co/BfF3djW/f0ab560a3aef.png) / Use Throwaways
 * ⭐ **[SA Drive](https://github.com/jsmsj/sa-drive/)** - Service Account Drive Manager
 * [Any File to GDrive](https://github.com/menukaonline/Any-file-to-Google-Drive) - DDL to GDrive Tool
 * [DriveUploader](https://driveuploader.com/) - Receive Files via GDrive
@@ -453,12 +454,13 @@
 * [ISAAC](https://github.com/harryeffinpotter/ISAAC) - Google Service Account Generators
 * [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/), [GDIndex](https://github.com/maple3142/GDIndex), [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) or [libDrive](https://github.com/libDrive/heroku) - Google Drive Indexers
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
-* [gdurl](https://gdurl.com/), [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/),[Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [GDriveWebAppPublic ](https://github.com/CloudflareHackers/GDriveWebAppPublic), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive 
+* [gdurl](https://gdurl.com/), [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/),[Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [GDriveWebAppPublic ](https://github.com/CloudflareHackers/GDriveWebAppPublic), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive
 * [GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb), [Google Drive Copy Folder](https://github.com/ericyd/gdrive-copy), [Copy Folder](https://chromewebstore.google.com/detail/copy-folder/kfbicpdhiofpicipfggljdhjokjblnhl) or [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/) - Copy Google Drives
 * [CloneBot](https://github.com/MsGsuite/CloneBot_Heroku) - Copy GDrive to TeamDrive
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
-* [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive 
+* [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive
 * [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - GDrive Guide
+* [DriveRename](https://driverename.iblogbox.com/) - Bulk GDrive File Rename
 
 ***
 
